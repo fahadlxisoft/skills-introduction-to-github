@@ -1,0 +1,28 @@
+import java.util.HashMap;
+
+public class dictionaryApp{
+
+pivate HashMap <String,String>book= new HashMap;
+ public static void main (String arg[]){
+  
+
+book.put("apple", "A fruit with a red or green skin and sweet white flesh.");
+  book.put("orange", "A fruit with a yellow or green skin and sweet yellow flesh.")
+ book.put("grapes", "A fruit with a grape or green skin and sweet white or light grape flesh.");
+ book.put("guava", "A fruit with a yellow or green skin and sweet white flesh.");
+ 
+ Scanner sc = new Scanner(System.in);
+ 
+ while(true)
+ {
+ System.out.println.("jhbrvhhiuihw4t");
+ 
+ 
+ 
+ 
+ 
+}
+
+
+
+}
